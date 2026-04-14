@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Lucas Freitas
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Lucas Freitas, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Vitória e concluí um curso técnico em Administração na ETEC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no GitHub "[LucasFreitas180608](https://github.com/LucasFreitas080618/)".
 <hr
     <a href="https://github.com/LucasFreitas080618?tab=repositories&sort=stargazers">
@@ -59,23 +57,3 @@ Me chamo Lucas Freitas, tenho 17 anos e sou natural de São Paulo. Concluí o en
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
