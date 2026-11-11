@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Freitas
 
-Me chamo Lucas Freitas, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Vitória e concluí um curso técnico em Administração na ETEC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no GitHub "[LucasFreitas180608](https://github.com/LucasFreitas080618/)".
+Me chamo Lucas Freitas, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Vitória e concluí um curso técnico em Administração na ETEC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no GitHub "[LucasFreitas180608](https://github.com/LucasFreitas080618/)".
 <hr
     <a href="https://github.com/LucasFreitas080618?tab=repositories&sort=stargazers">
         <img 
